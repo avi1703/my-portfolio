@@ -18,7 +18,7 @@ const Home = () => {
               I am currently in the process of building my expertise in developing interactive applications.  Although I am in the early stages of my professional journey, I am eager to learn and grow, and I have a strong foundation in various frontend and backend technologies.
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="/assets/Avinash-Sharma-Resume.pdf" download="Avinash-Sharma-Resume.pdf" className="no-underline">
+              <a href="/assets/Avinash-Resume.pdf" download="Avinash-Sharma-Resume.pdf" className="no-underline">
                 <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
                   <span>Download Resume</span>
                   <FiDownload className="text-xl" />

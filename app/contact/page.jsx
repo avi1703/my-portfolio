@@ -132,7 +132,7 @@ const Contact = () => {
               >
                 Send Message
               </button>
-              <div>Starred(**) fields are necessary to fill</div>
+              <div>Starred(**) fields are mandatory to fill</div>
             </form>
           </div>
           <div className="flex flex-col order-1 xl:order-none">

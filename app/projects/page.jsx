@@ -73,8 +73,8 @@ const projects = [
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit animi nihil quas nemo impedit, vero sed repudiandae corrupti quasi dolores. Non, labore dolorem!",
     stack: [{ name: 'NextJs' }, { name: 'TailWind' }, { name: 'JavaScript' }],
     image: '/assets/portfolio.png',
-    live: 'https://attire-avenue-frontend.vercel.app/',
-    github: 'https://github.com/avi1703/attire-avenue.git',
+    live: 'https://my-portfolio-avinash.vercel.app/',
+    github: 'https://github.com/avi1703/my-portfolio',
   },
 
 
