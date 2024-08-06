@@ -5,10 +5,9 @@ I developed my portfolio using the MERN stack, incorporating NextJs and TailWind
 ## Quick Demo
 <ul>
   <li><b>Live Link </b>- https://my-portfolio-avinash.vercel.app/</li>
-
-  <li> https://github.com/user-attachments/assets/dc6dc7cf-25d5-4b79-b12f-268cad2d54ed </li>
 </ul>
 
+https://github.com/user-attachments/assets/dc6dc7cf-25d5-4b79-b12f-268cad2d54ed
 
 ## Technologies Used
 <ul>
