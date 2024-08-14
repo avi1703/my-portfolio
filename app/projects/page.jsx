@@ -70,7 +70,7 @@ const projects = [
     num: '05',
     category: 'My Portfolio',
     title: 'Project 5',
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit animi nihil quas nemo impedit, vero sed repudiandae corrupti quasi dolores. Non, labore dolorem!",
+    description: "I built my portfolio using the MERN stack, with Next.js for dynamic UIs, Tailwind CSS for design, MongoDB for data storage, Express for backend routing, and Node.js for server-side execution. This project enhanced my full-stack development skills and the integration of these technologies.",
     stack: [{ name: 'NextJs' }, { name: 'TailWind' }, { name: 'JavaScript' }],
     image: '/assets/portfolio.png',
     live: 'https://my-portfolio-avinash.vercel.app/',
