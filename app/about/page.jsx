@@ -15,6 +15,8 @@ const Services = () => {
             src="/assets/html_icon.png"
             alt=""
             className='h-16'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>HTML</p>
         </div>
@@ -23,6 +25,8 @@ const Services = () => {
             src="/assets/css_icon.png"
             alt=""
             className='h-16'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>CSS</p>
         </div>
@@ -31,6 +35,8 @@ const Services = () => {
             src="/assets/jscript.png"
             alt=""
             className='h-12'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>JavaScript</p>
         </div>
@@ -39,6 +45,8 @@ const Services = () => {
             src="/assets/bstrap_icon.png"
             alt=""
             className='h-20'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>BootStrap</p>
         </div>
@@ -47,6 +55,8 @@ const Services = () => {
             src="/assets/tailwind_icon.png"
             alt=""
             className='h-8'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>TailWind</p>
         </div>
@@ -55,6 +65,8 @@ const Services = () => {
             src="/assets/react.png"
             alt=""
             className='h-12'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>ReactJs</p>
         </div>
@@ -63,6 +75,8 @@ const Services = () => {
             src="/assets/node.png"
             alt=""
             className='h-12'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>NodeJs</p>
         </div>
@@ -71,6 +85,8 @@ const Services = () => {
             src="/assets/express.png"
             alt=""
             className='h-12'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>ExpressJs</p>
         </div>
@@ -79,6 +95,8 @@ const Services = () => {
             src="/assets/mdb.png"
             alt=""
             className='h-12'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>MongoDB</p>
         </div>
@@ -87,6 +105,8 @@ const Services = () => {
             src="/assets/next_icon.png"
             alt=""
             className='bg-white p-2 rounded-full h-12'
+            width={60}
+            height={60}
           />
           <p className='text-xl'>NextJs</p>
         </div>
@@ -95,6 +115,8 @@ const Services = () => {
             src="/assets/cpp.png"
             alt=""
             className="h-12"
+            width={60}
+            height={60}
           />
           <p className='text-2xl'>C++</p>
         </div>
@@ -103,6 +125,8 @@ const Services = () => {
             src="/assets/typescript.png"
             alt=""
             className="h-16"
+            width={60}
+            height={60}
           />
           <p className='text-xl'>TypeScript</p>
         </div>
@@ -118,6 +142,8 @@ const Services = () => {
               src="/assets/brcm_logo.png"
               alt=""
               className="h-full w-28 py-8"
+              width={60}
+            height={60}
             />
           </div>
           <div>
@@ -133,6 +159,8 @@ const Services = () => {
               src="/assets/vaish_logo.png"
               alt=""
               className="h-full w-28 py-8"
+              width={60}
+            height={60}
             />
           </div>
           <div>

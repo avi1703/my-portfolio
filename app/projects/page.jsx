@@ -23,31 +23,19 @@ const projects = [
 
   {
     num: '01',
-    category: 'To-Do List',
+    category: 'Unwinnd',
     title: 'Project 1',
-    description: "This To-Do List app lets users manage tasks efficiently. Users can add, edit, delete, mark tasks as completed or pending, and filter tasks by status or search query.",
-    stack: [{ name: 'HTML' }, { name: 'CSS' }, { name: 'JavaScript' }],
-    image: '/assets/To-Do List.png',
-    live: 'https://to-do-list-alpha-snowy.vercel.app/',
-    github: 'https://github.com/avi1703/To-Do-List.git',
+    description: "Contributed to a production mental health platform used by therapists and patients, building partner and user dashboards with real-time chat using Socket.io and deploying updates on a live server.",
+    stack: [{ name: 'ReactJs' }, { name: 'JavaScript' },  { name: 'Socket.io' }],
+    image: '/assets/unwinnd.png',
+    live: 'https://unwinnd.com/',
+    github: 'https://github.com/vinay-eng/unwinnd_web/',
   },
-
   {
     num: '02',
-    category: 'Tasty Burger',
-    title: 'Project 2',
-    description: "Welcome to the Tasty-Burger UI! Built with React, this visually appealing and user-friendly interface features a static add-to-cart option, shop section, blog section, and more. It's fully responsive, ensuring a seamless experience on all devices.",
-    stack: [{ name: 'ReactJs' }, { name: 'JavaScript' }],
-    image: '/assets/Tasty Burger.png',
-    live: 'https://tasty-burger-ui.vercel.app/',
-    github: 'https://github.com/avi1703/Tasty-Burger-UI.git',
-  },
-
-  {
-    num: '03',
     category: 'Attire Avenue',
-    title: 'Project 3',
-    description: "Attire Avenue is a React-based e-commerce app offering a seamless shopping experience with user authentication, product browsing, a shopping cart, and a custom payment gateway. It features attire for men, women, and kids. This project deepened my knowledge of full-stack technologies, including React for frontend, Node.js and Express.js for backend, and deployment with Vercel and Render.",
+    title: 'Project 2',
+    description: "React-based e-commerce app with authentication, product browsing, cart, and custom payments. Built using React, Node.js, and Express, and deployed on Vercel and Render.",
     stack: [{ name: 'ReactJs' }, { name: 'NodeJs' }, { name: 'ExpressJs' }, { name: 'MongoDB' }],
     image: '/assets/Attire-Avenue.png',
     live: 'https://attire-avenue-frontend.vercel.app/',
@@ -55,10 +43,21 @@ const projects = [
   },
 
   {
+    num: '03',
+    category: 'MultiPlayer Tic-Tac-Toe',
+    title: 'Project 3',
+    description: "Built an offline/online multiplayer game with real-time sockets, Google Sign-In, and React Hooks. Achieved 100% test coverage using Cypress and tested by 50+ users.",
+    stack: [{ name: 'ReactJs' }, { name: 'Socket.io' }, { name: 'Cypress' }],
+    image: '/assets/tic-tac-toe.png',
+    live: 'https://tic-tac-toe-ten-henna.vercel.app/',
+    github: 'https://github.com/avi1703/tic-tac-toe',
+  },
+
+  {
     num: '04',
     category: 'Weather App',
     title: 'Project 4',
-    description: "The Weather App, built with Next.js, offers real-time weather information for local and global locations using weather APIs. This project has enhanced my skills in integrating APIs and using TypeScript in Next.js.",
+    description: "Built a weather app using Next.js and TypeScript that fetches real-time data from external APIs for local and global locations.",
     stack: [{ name: 'NextJs' }, { name: 'TailWind' }, { name: 'TypeScript' }],
     image: '/assets/Weather-App.png',
     live: 'https://weather-app-nextjs-delta.vercel.app/',
@@ -70,11 +69,33 @@ const projects = [
     num: '05',
     category: 'My Portfolio',
     title: 'Project 5',
-    description: "I built my portfolio using the MERN stack, with Next.js for dynamic UIs, Tailwind CSS for design, MongoDB for data storage, Express for backend routing, and Node.js for server-side execution. This project enhanced my full-stack development skills and the integration of these technologies.",
+    description: "Built a full-stack portfolio using Next.js, Tailwind CSS, and MongoDB, with dynamic UI components and backend APIs.",
     stack: [{ name: 'NextJs' }, { name: 'TailWind' }, { name: 'JavaScript' }],
     image: '/assets/portfolio.png',
     live: 'https://my-portfolio-avinash.vercel.app/',
     github: 'https://github.com/avi1703/my-portfolio',
+  },
+
+  {
+    num: '06',
+    category: 'To-Do List',
+    title: 'Project 6',
+    description: "This To-Do List app lets users manage tasks efficiently. Users can add, edit, delete, mark tasks as completed or pending, and filter tasks by status or search query.",
+    stack: [{ name: 'HTML' }, { name: 'CSS' }, { name: 'JavaScript' }],
+    image: '/assets/To-Do List.png',
+    live: 'https://to-do-list-alpha-snowy.vercel.app/',
+    github: 'https://github.com/avi1703/To-Do-List.git',
+  },
+
+  {
+    num: '07',
+    category: 'Tasty Burger',
+    title: 'Project 7',
+    description: "Built a responsive burger-themed UI in React with shop, blog, and add-to-cart interface components.",
+    stack: [{ name: 'ReactJs' }, { name: 'JavaScript' }],
+    image: '/assets/Tasty Burger.png',
+    live: 'https://tasty-burger-ui.vercel.app/',
+    github: 'https://github.com/avi1703/Tasty-Burger-UI.git',
   },
 
 
